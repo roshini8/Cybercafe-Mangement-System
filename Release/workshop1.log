@@ -1,7 +1,4 @@
-﻿  workshop.cpp
-  Generating code
-  6 of 81 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  workshop1.vcxproj -> C:\Users\roshi\Desktop\DS\workshop1\x64\Release\workshop1.exe
+﻿workshop.obj : error LNK2001: unresolved external symbol _mysql_errno@4
+workshop.obj : error LNK2001: unresolved external symbol _mysql_real_connect@32
+workshop.obj : error LNK2001: unresolved external symbol _mysql_init@4
+C:\Users\roshi\Desktop\DS\workshop1\Release\workshop1.exe : fatal error LNK1120: 3 unresolved externals
