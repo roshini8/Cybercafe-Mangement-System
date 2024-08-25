@@ -1,0 +1,32 @@
+
+		 RH CYBERCAFE MANAGEMENT SYSTEM		  
+			  Invoice
+
+Invoice No :60
+
+Invoice Date:2023-06-27
+
+Time:01:01:59
+
+MemberId :hafeizah
+
+
+-------------------------------------
+ BookingID   |      B0104 |
+ StartTime   |   09:00:00 |
+ EndTime     |   10:00:00 |
+ Duration    |          1 |
+ Amount      |          4 |
+ Cash        |         10 |
+ Balance     |          6 |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+-------------------------------------

@@ -1,0 +1,32 @@
+
+		 RH CYBERCAFE MANAGEMENT SYSTEM		  
+			  Invoice
+
+Invoice No :64
+
+Invoice Date:2023-06-27
+
+Time:03:53:00
+
+MemberId :MICHEL12
+
+
+-------------------------------------
+ BookingID   |      B0108 |
+ StartTime   |   10:00:00 |
+ EndTime     |   11:00:00 |
+ Duration    |          1 |
+ Amount      |          4 |
+ Cash        |         10 |
+ Balance     |          6 |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+-------------------------------------

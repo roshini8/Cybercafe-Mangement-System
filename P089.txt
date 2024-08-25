@@ -1,0 +1,32 @@
+
+		 RH CYBERCAFE MANAGEMENT SYSTEM		  
+			  Invoice
+
+Invoice No :65
+
+Invoice Date:2023-06-27
+
+Time:07:29:53
+
+MemberId :Darrick02
+
+
+-------------------------------------
+ BookingID   |      B0109 |
+ StartTime   |   20:00:00 |
+ EndTime     |   21:00:00 |
+ Duration    |          1 |
+ Amount      |          4 |
+ Cash        |         10 |
+ Balance     |          6 |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+             |            |
+-------------------------------------
